@@ -16,13 +16,12 @@
 ## 🔬 Research Interests
 
 - **LLM Evaluation for Clinical Decision Support** — Comparing open-source vs. paid LLMs (Llama 3.3-70B, Gemini Flash, GPT-4o mini) for healthcare in resource-limited settings using XGBoost + SHAP explainability
-- **Bangla NLP** — Multi-label emotion classification; addressing underexplored gaps in low-resource language research
 
 ---
 
 ## 🛠️ Skills
 
-**Languages:** Python · Java · JavaScript · PHP  
+**Languages:**  PHP. Python · Java · JavaScript · PHP  
 **Web:** HTML · CSS · React · Laravel (basics)  
 **ML/AI:** XGBoost · SHAP · Scikit-learn  
 **Database:** MySQL · Firebase Firestore  
