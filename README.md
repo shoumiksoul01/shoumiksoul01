@@ -21,7 +21,7 @@
 
 ## 🛠️ Skills
 
-**Languages:**  PHP. Python · Java · JavaScript · PHP  
+**Languages:**  PHP. Python · Java · JavaScript 
 **Web:** HTML · CSS · React · Laravel (basics)  
 **ML/AI:** XGBoost · SHAP · Scikit-learn  
 **Database:** MySQL · Firebase Firestore  
