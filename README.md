@@ -126,10 +126,12 @@ Peer teaching sessions on data science, ML, and AI tools
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shoumiksoul01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60A5FA&icon_color=60A5FA&text_color=c9d1d9" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoumiksoul01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60A5FA&text_color=c9d1d9" height="160"/>
+
+
 
 <img src="https://streak-stats.demolab.com?user=shoumiksoul01&theme=tokyonight&hide_border=true&background=0d1117&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA" height="160"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shoumiksoul01&theme=tokyonight" width="80%"/>
 
 </div>
 
