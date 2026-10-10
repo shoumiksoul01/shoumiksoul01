@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sk.%20Shoumik%20Haque&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Researcher&descAlignY=58&descSize=18&descColor=a0c4ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sk%20Shoumik%20Haque&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Researcher&descAlignY=58&descSize=18&descColor=a0c4ff" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Final-Year+SWE+%40+Daffodil+International+University;Building+TryOn.ai+%E2%80%94+B2B+SaaS+Platform;LLM+Researcher+%7C+Full-Stack+Developer;CGPA%3A+3.94+%2F+4.00)](https://git.io/typing-svg)
 
