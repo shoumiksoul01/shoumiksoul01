@@ -98,6 +98,9 @@ Evaluating open-source LLMs — Llama 3.3-70B (Groq), Gemini 2.0 Flash, DeepSeek
 
 ## 💼 Experience
 
+**👨‍🏫 Coding Instructor** — Dreamers Academy *(Oct 2026 – Present)*
+Teaching Python, Scratch, HTML, CSS, and JavaScript through live online classes in Bangla and English, both 1:1 and in batches
+
 **🖥️ Remote IT Officer** — Red Network Ltd. *(Dec 2025 – Apr 2026)*
 Remote technical support, infrastructure monitoring, AWS Cloud Security-aligned configuration tasks
 
